@@ -1,0 +1,24 @@
+/*
+.text2 {
+  font: bold
+}
+
+.textt2{
+    font-family: Times new roman;
+    display: inline-block;
+    color: black;
+    top: 90;
+    left: 220px;
+    font-size: 18px;
+    background-attachment: float;
+}
+
+.textt3{
+  font-family: Times new roman;
+  display: inline-block;
+  color: black;
+  top: 90;
+  left: 220px;
+  font-size: 18px;
+  background-attachment: float;
+} */

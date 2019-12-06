@@ -1,0 +1,159 @@
+
+body {font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+h1,  h3, h5, h6 {
+  color: #9999ff;
+}
+
+h6 {
+  font-size: 15px;
+}
+
+h2, h4 {
+color: black
+
+}
+
+.title {
+  font-family: Papyrus;
+  display: block;
+  color: #4684B4;
+  position: relative;
+  top: 90;
+  left: 10px;
+  font-size: 30px;
+  }
+
+.text {
+  font-family: Papyrus;
+  display: block;
+  color: #9999ff;
+  top: 90;
+  left: 220px;
+  font-size: 18px;
+}
+
+
+/* CSS files add styling rules to your content */
+img.css {
+    width: 1000px;
+    height:300px;
+    position: center;
+    margin: auto;
+}
+
+.flexmenu {
+  display: flex;
+  list-style-type: none;
+  height: 100px;
+  justify-content: center;
+  /* flex-flow: row wrap */
+
+}
+
+.flexmenu2 {
+  margin: 30px;
+  background: #4684B4;
+  padding: 20px;
+  width: 100px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+
+
+}
+
+.flexmenu2 a{
+color: white;
+}
+
+
+a {
+  color: black;
+  text-decoration:none;
+}
+a hover{
+  color: #EF7B45;
+  text-decoration:underline;
+}
+
+
+}
+.css{
+  /* play with the position */
+  position: center;
+  top: 110;
+  left: 50px;
+  font-size: 100px;
+  margin: auto;
+}
+
+.Pharmacist{
+  /* play with the position */
+  position: center;
+  top: 80;
+  left: 120px;
+  font-size: 20px;
+  width: 500px;
+  height:250px;
+  display:inline-block;
+
+}
+
+.corgi {
+  position: center
+  top: 80;
+  left: 120px;
+  width: 500px;
+  height:250px;
+  display:inline-block;
+
+
+}
+
+.hey {
+
+  background-color: #4684B4;
+  color: white;
+  text-align: center;
+}
+
+
+.col {
+  display: inline-block;
+  width: 45%;
+}
+
+.corgi2 {
+  position: center;
+  top: 80;
+  left: 120px;
+  width: 500px;
+  height:300px;
+  display:inline-block;
+}
+
+.PDFlinks a{
+  color: 4684B4;
+  font-weight: bold;
+}
+
+.pic {
+  position: center;
+  left: 120px;
+  width: 500px;
+  height:200px;
+  display:inline-block;
+}
+
+.backgroundimage{
+  /*background-color: #ffffe6*/
+  background-image:url("https://cdn.glitch.com/8cbb307e-43a8-4e67-abee-99aa2a9a6009%2FBackground.jpg");
+}
+
+.animated {
+  float: right;
+  margin: 0px 0px 15px;
+
+}
